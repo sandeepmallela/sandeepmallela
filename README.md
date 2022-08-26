@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandeepmallela
-- 👀 I’m interested in Data Science, Analytics, Machine Learning, and Statistics
+- 👀 I’m interested in Data Science, Analytics, Machine Learning, Statistics and Python
 - 🌱 I’m currently learning Machine Learning and Predictive analytics
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me @ mallelasunny@gmail.com
